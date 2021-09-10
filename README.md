@@ -2,8 +2,8 @@
 A smart home is an undergraduate project made for "Sensors" course, was taught by Dr.Eman El-Gendy 2019, computer engineering major. It was made using `Arduino` Uno.
 
 Note:
-1. You need download (Arduino IDE)[https://www.arduino.cc/en/software] to be able to use the code.
-2. You can try the code using simulation software like: (Proteus)[https://www.labcenter.com/] or (Tinkercad)[https://www.tinkercad.com/learn/circuits], or you can implement the hardware design of the code.
+1. You need download [Arduino IDE](https://www.arduino.cc/en/software) to be able to use the code.
+2. You can try the code using simulation software like: [Proteus](https://www.labcenter.com/) or [Tinkercad](https://www.tinkercad.com/learn/circuits), or you can implement the hardware design of the code.
 
 ## Used Components
 - Arduino Uno                           ==> Centralized Control
@@ -20,4 +20,4 @@ Note:
 - 4 * 4 Keypad                          ==> Enter the password & navigation on the LCD
 
 Project Team:
-- Youssef El-Mahdy - Hadi Lotfy - Abdullah El-Hadidy - Saif Gadallah 
+- Youssef El-Mahdy - Hadi Lotfy - Abdullah El-Hadidy - Saif Gadallah
