@@ -18,3 +18,9 @@ Note:
 - Bluetooth Module                      ==> Control parts of the system remotely
 - (DHT 11) Temperature-Humidity Sensor  ==> Senses the indoor humidity of the home
 - 4 * 4 Keypad                          ==> Enter the password & navigation on the LCD
+
+Project Team:
+Youssef El-Mahdy
+Hadi Lotfy
+Abdullah El-Hadidy
+Saif Gadallah 
