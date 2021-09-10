@@ -20,7 +20,4 @@ Note:
 - 4 * 4 Keypad                          ==> Enter the password & navigation on the LCD
 
 Project Team:
-Youssef El-Mahdy
-Hadi Lotfy
-Abdullah El-Hadidy
-Saif Gadallah 
+- Youssef El-Mahdy - Hadi Lotfy - Abdullah El-Hadidy - Saif Gadallah 
