@@ -1,5 +1,5 @@
 # Smart Home Project
-A smart home is an undergraduate project made for "Sensors" course, was taught by Dr.Eman El-Gendy 2019, computer engineering major. It was made using `Arduino` Uno.
+A smart home is an undergraduate project made for "Sensors" course, was taught by Dr.Eman El-Gendy 2019, computer engineering major. It was made using `Arduino Uno`.
 
 Note:
 1. You need download [Arduino IDE](https://www.arduino.cc/en/software) to be able to use the code.
